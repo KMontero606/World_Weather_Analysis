@@ -15,12 +15,12 @@ Using OpenWeatherMap, an API call was performed to gather additional weather dat
 <img width="875" alt="data_retrieval" src="https://user-images.githubusercontent.com/106962921/179471157-6eb11d28-4e8e-4e21-8887-a1b35eefd450.png">
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
-Using Google API, an API call was performed to gather possible travel destinations with corresponding hotels within a 5000 meter radius.
+Using Google Maps Plateform, an API call was performed to gather possible travel destinations with corresponding hotels within a 5000 meter radius.
 
 <img width="1126" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/106962921/179471441-78b30ff1-c112-4044-a1bc-3f139ae5bb1c.png">
 
 ### Deliverable 3: Create a Travel Itenarary Map
-Using Google Directions API, an API call was performed to create an itenarary map based on four chosen cities within the same country by the end user's weather preferences. The itenarary map also shows corresponding hotels for each destination chosen.
+Using Google Directions Platform, an API call was performed to create an itenarary map based on four chosen cities within the same country by the end user's weather preferences. The itenarary map also shows corresponding hotels for each destination chosen.
 
 <img width="1127" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/106962921/179471653-cbd1b638-d442-4a4c-8502-a0f1a1f9e4b8.png">
 
