@@ -15,7 +15,7 @@ Using OpenWeatherMap, an API call was performed to gather additional weather dat
 <img width="875" alt="data_retrieval" src="https://user-images.githubusercontent.com/106962921/179471157-6eb11d28-4e8e-4e21-8887-a1b35eefd450.png">
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
-Using Google Maps Plateform, an API call was performed to gather possible travel destinations with corresponding hotels within a 5000 meter radius.
+Using Google Maps Platform, an API call was performed to gather possible travel destinations with corresponding hotels within a 5000 meter radius.
 
 <img width="1126" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/106962921/179471441-78b30ff1-c112-4044-a1bc-3f139ae5bb1c.png">
 
