@@ -10,7 +10,7 @@
 ## Results:
 
 ### Deliverable 1: Retrieve Weather Data
-Using OpenWeatherMap, an API call was performed to gather additional weather data from 2000 random-generated coordinates then tabulated into an excel csv file.
+Using OpenWeatherMap, an API call was performed to gather additional weather data as seen below in the "Weather description" column from over 500 random-generated coordinates then tabulated into an excel csv file.
 
 <img width="875" alt="data_retrieval" src="https://user-images.githubusercontent.com/106962921/179471157-6eb11d28-4e8e-4e21-8887-a1b35eefd450.png">
 
@@ -19,8 +19,8 @@ Using Google Maps Platform, an API call was performed to gather possible travel 
 
 <img width="1126" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/106962921/179471441-78b30ff1-c112-4044-a1bc-3f139ae5bb1c.png">
 
-### Deliverable 3: Create a Travel Itenarary Map
-Using Google Directions Platform, an API call was performed to create an itenarary map based on four chosen cities within the same country by the end user's weather preferences. The itenarary map also shows corresponding hotels for each destination chosen.
+### Deliverable 3: Create a Travel Itenerary Map
+Using Google Directions Platform, an API call was performed to create an itenerary map based on four chosen cities within the same country by the end user's weather preferences. The itenerary map also shows corresponding hotels for each destination chosen.
 
 <img width="1127" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/106962921/179471653-cbd1b638-d442-4a4c-8502-a0f1a1f9e4b8.png">
 
